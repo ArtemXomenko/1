@@ -1,0 +1,45 @@
+header{
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sana-serif;
+}
+svg{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    width: 180px;
+    height: 180px;
+}
+.light{
+    text-align: center;
+    font-size: small;
+}
+h2, h1{
+    color: #ffa07a;
+    font-size: small;
+
+}
+p{
+    font-size: small;
+}
+.weather{
+    text-align: left;
+    left: 150px;
+    top: 10px;
+    position: relative;
+
+}
+.paper{
+    height: 6px;
+    width: 200px;
+    background-color: #2a2525;
+    position: relative;
+    left: 180px;
+
+}
